@@ -1,0 +1,60 @@
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAARQA////+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABcQD///8AAAK4AAABgQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAOH/////AAAAAAAAAAA=
+eDP1=eDP1
+eDP1 Height 1366x768 eDP1=450
+eDP1 Width 1366x768 eDP1=696
+eDP1 XPosition 1366x768 eDP1=398
+eDP1 YPosition 1366x768 eDP1=138
+
+[Desktop Entry]
+DefaultProfile=Smoke.profile
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+Recent Files[$e]=GradientGlowBlue.jpg,file:$HOME/.config/konsole/styles/smoke-minimal.css,file:///usr/share/backgrounds/GradientGlowBlue.jpg
+Recent URLs[$e]=file:///usr/share/backgrounds/,file:$HOME/.config/konsole/styles/
+detailViewIconSize=16
+iconViewIconSize=64
+
+[KonsoleWindow]
+RememberWindowSize=false
+
+[MainWindow]
+1280x800 screen: Height=296
+1280x800 screen: Width=574
+1280x800 screen: XPosition=86
+1280x800 screen: YPosition=118
+1366x768 screen: Height=282
+1366x768 screen: Width=613
+1366x768 screen: XPosition=729
+1366x768 screen: YPosition=454
+1920x1200 screen: Height=291
+1920x1200 screen: Width=894
+2 screens: Height=1117
+2 screens: Width=1876
+2 screens: XPosition=1303
+2 screens: YPosition=52
+640x400 screen: Height=301
+640x400 screen: Width=574
+LVDS1=LVDS1
+LVDS1 VGA1=VGA1
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP1=eDP1
+eDP1 Height 1366x768 eDP1=691
+eDP1 Width 1366x768 eDP1=718
+eDP1 XPosition 1366x768 eDP1=644
+eDP1 YPosition 1366x768 eDP1=27
+
+[SplitView]
+SplitDragHandleSize=SplitDragHandleLarge
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+ExpandTabWidth=true
+TabBarPosition=Top
+TabBarUserStyleSheetFile=file:///home/mantacid/.config/konsole/styles/smoke-minimal.css
+
+[UiSettings]
+ColorScheme=Ink(Low Contrast)

@@ -1,0 +1,106 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+      "source": "/home/mantacid/Pictures/MyLogo.png",
+      "width": 25,
+      "height": 12,
+      "preserveAspectRatio": false
+  },
+  "display": {
+        "hideCursor": true,
+        "separator": " ",
+        "temp": {
+            "unit": "C",
+            "color": {
+                "green": "green",
+                "yellow": "yellow",
+                "red": "red",
+            },
+            "ndigits": 1,
+        },
+        "color": {
+            "keys": "green"
+        }
+        
+  },
+  "modules": [
+      {
+        "format": "",
+        "type": "custom",
+      },
+      {
+        "format": "\u001b[75D \u001b[92m╭───{6}{7}{8}\u001b[92m────────────────────╮",
+        "type": "title",
+        "color": {
+          "user": "inverse_light_green",
+          "at": "inverse_light_green",
+          "host": "inverse_light_green",
+        },
+      },
+      {
+        "format": "\u001b[75D                                         │\u001b[A\u001b[92m──\u001b[7m UPTIME: {1}:{2}:{3}:{4} \u001b[27m",
+        "type": "uptime",
+      },
+      {
+        "key": "\u001b[76D                                   󰍛 CPU │",
+        "type": "cpu",
+      },
+      {
+        "key": "\u001b[76D                              CPU_USAGE │",
+        "type": "cpuusage",
+      },
+      {
+        "key": "\u001b[76D                                 MEMORY │",
+        "type": "memory",
+      },
+      {
+        "key": "\u001b[76D                                󰌽 KERNEL │",
+        "type": "kernel",
+      },
+      {
+        "key": "\u001b[76D                                     OS │",
+        "type": "os",
+      },
+      {
+        "key": "\u001b[76D                               PACKAGES │",
+        "type": "packages",
+      },
+      {
+        "key": "\u001b[76D                                         │",
+        "type": "custom",
+      },
+      {
+        "key": "\u001b[76D                                  SHELL │",
+        "type": "shell",
+      },
+      {
+        "key": "\u001b[76D                               TERMINAL │",
+        "type": "terminal",
+      },
+      {
+        "key": "\u001b[76D                                     WM │",
+        "type": "wm",
+      },
+      {
+        "key": "\u001b[76D                                     DE │",
+        "type": "de",
+      },
+      {
+        "key": "\u001b[76D                                  THEME │",
+        "type": "theme",
+      },
+      {
+        "key": "\u001b[76D                           DESKTOP FONT │",
+        "type": "font",
+      },
+      {
+        "key": "\u001b[76D                          TERMINAL FONT │",
+        "type": "terminalfont",
+      },
+      {
+        "key": "\u001b[76D                                         ╰────────{#39}",
+        "type": "colors",
+        "symbol": "circle",
+      },
+  ],
+}

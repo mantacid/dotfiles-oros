@@ -1,0 +1,50 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display,dolphin_directorysizemode.upd:convert-directorysizecount-to-directorysizemode
+
+[ExtractDialog]
+1280x800 screen: Height=390
+1280x800 screen: Width=862
+2 screens: Height=418
+2 screens: Width=885
+DirHistory[$e]=$HOME/leocadlib/unofficial/,$HOME/LDCad/partBin/,$HOME/builds/,$HOME/,/run/media/mantacid/Flipper SD/dolphin/,/run/media/mantacid/Flipper SD/nfc/
+
+[FileDialogSize]
+2 screens: Height=586
+2 screens: Width=839
+
+[General]
+Version=202
+ViewPropsTimestamp=2023,6,23,18,10,31.336
+
+[InformationPanel]
+dateFormat=ShortFormat
+previewsShown=false
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=16
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1280x800 screen: Height=498
+1280x800 screen: Width=476
+2 screens: Height=474
+2 screens: Width=453
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,pothumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[ViewPropertiesDialog]
+1280x800 screen: Height=307
+1280x800 screen: Width=352
+2 screens: Height=307
+2 screens: Width=352
